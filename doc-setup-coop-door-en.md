@@ -19,8 +19,8 @@ The goal is to document the setup & configuration of the [esp32-coop](https://gi
 # :memo: Summary:
 
 - [:page_facing_up: **Project Overview**](page_facing_up-project-overview): quick presentation of the mother project (goal, link device, protocol used, problematic) 
-- [:iphone: **The App**](#iphone-app-installation): how to get the it
-- [:toolbox: **Build instruction**](#toolbox-build-instruction)
+- [:iphone: **The App**](#-app-installation): how to get the it
+- [:toolbox: **Build instruction**](#-build-instruction)
    - :clipboard: Requirement
    - :flashlight: Wiring
    - :rocket: First Boot
