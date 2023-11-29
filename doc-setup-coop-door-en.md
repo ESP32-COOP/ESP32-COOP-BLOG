@@ -224,7 +224,6 @@ for each communication subjects i will justify each bytes and explain it's encod
    Here's the array structure for encoding: [door_mode, number_of_turns * 10].
 
 ## :gear: Code Snippette
-Certainly, here's your code snippet presented in a more readable manner:
 
 ## Encoding and Decoding Long Numbers to Bytes
 
